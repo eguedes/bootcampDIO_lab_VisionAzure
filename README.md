@@ -66,3 +66,15 @@ Os resultados, foram os mostrados abaixo.
 [![terceira](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR6-CreditCard_rec.jpg?raw=true "terceira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR6-CreditCard_rec.jpg?raw=true "terceira")
 
 Os códigos *json* retornados, assim como as imagens acima estão na pasta [/outputs/texto](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto).
+
+#### Criando legendas no Vision Studio
+
+Testando a função de criação de descrição para as imagens, foram usadas as imagens contidas na pasta [/inputs/legenda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/tree/main/inputs/legenda).
+
+Os resultados, foram os mostrados abaixo.
+
+[![primeira](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/legenda/Caption_1_rec.png?raw=true "primeira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/legenda/Caption_1_rec.png?raw=true "primeira")
+
+[![segunda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/legenda/Caption_2_rec.png?raw=true "segunda")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/legenda/Caption_2_rec.png?raw=true "segunda")
+
+Os códigos *json* retornados, assim como as imagens acima estão na pasta [/outputs/legenda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/legenda).
