@@ -49,6 +49,20 @@ Os resultados, foram os mostrados abaixo.
 
 [![primeira](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_01_rec.png?raw=true "primeira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_01_rec.png?raw=true "primeira")
 
-[![segunda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_02_rec.png?raw=true "primeira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_02_rec.png?raw=true "primeira")
+[![segunda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_02_rec.png?raw=true "segunda")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_02_rec.png?raw=true "segunda")
 
 Os códigos *json* retornados, assim como as imagens acima estão na pasta [/outputs/rostos](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos).
+
+#### Extraindo textos no Vision Studio
+
+Testando a função de extração de textos, foram usadas as imagens contidas na pasta [/inputs/texto](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/tree/main/inputs/texto).
+
+Os resultados, foram os mostrados abaixo.
+
+[![primeira](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR2_rec.jpg?raw=true "primeira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR2_rec.jpg?raw=true "primeira")
+
+[![segunda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR3_rec.jpg?raw=true "segunda")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR3_rec.jpg?raw=true "segunda")
+
+[![terceira](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR6-CreditCard_rec.jpg?raw=true "terceira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto/OCR6-CreditCard_rec.jpg?raw=true "terceira")
+
+Os códigos *json* retornados, assim como as imagens acima estão na pasta [/outputs/texto](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/texto).
