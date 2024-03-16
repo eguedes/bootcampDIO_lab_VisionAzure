@@ -26,3 +26,29 @@ Seguindo o tutorial da Microsoft, foram utilizados os passos baixo para a criaç
     >**By checking this box I acknowledge that I have read and understood all the terms below**: *Selecionado*
 
 3. Selecione **Review + create** e depois **Create** e aguarde o final do deployment.
+
+### Conecte o recurso Azure AI servcies ao Vision Studio
+
+Em seguida, é preciso conectar o recuso criado ao Vision Studio.
+
+1. Acesse o [Vision Studio](https://portal.vision.cognitive.azure.com/?azure-portal=true)
+
+2. Faça login usando suas credenciais da Microsoft.
+
+3. Na página principal, selecione **View all resources** em baixo do títulos **Getting started with Vision**.
+
+4. Na página **Select a resource to work with**, marque a caixa de seleção à esquerda do nome do recurso criado e depois selecione **Select as default resource**
+
+5. Feche a página de configurações clicando no "x" na parte superior direita da tela.
+
+#### Detectando rostos no Vision Studio
+
+Testando a função de deteção de rostos, foram usadas as imagens contidas na pasta [/inputs/rostos](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/tree/main/inputs/rostos).
+
+Os resultados, foram os mostrados abaixo.
+
+[![primeira](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_01_rec.png?raw=true "primeira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_01_rec.png?raw=true "primeira")
+
+[![segunda](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_02_rec.png?raw=true "primeira")](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos/Face_02_rec.png?raw=true "primeira")
+
+Os códigos *json* retornados, assim como as imagens acima estão na pasta [/outputs/rostos](https://github.com/eguedes/bootcampDIO_lab_VisionAzure/blob/main/outputs/rostos).
